@@ -2,11 +2,39 @@
 
 "Moonbeam Adventure" adalah game platformer yang menghadirkan petualangan seru dalam fantasi. Pemain akan  mengendalikan karakter utama yang dapat bergerak ke kiri, ke kanan, dan melompat di atas platform yang beragam, sambil menghindari rintangan seperti lubang, duri, jebakan, dan musuh yang bergerak. Dengan mengumpulkan hati yang terdapat di dalam item box, nyawa karakter akan bertambah. Pemain dapat mengalahkan musuh dengan melompat di atas mereka setelah mendapatkan power-up. Selain itu, pemain dapat mengumpulkan item seperti power-up yang memberikan kemampuan tambahan seperti berubah menjadi besar, membantu pemain menyelesaikan setiap level . 
 
-Library yang dipakai : pygame, sys, os.
+Library yang dipakai  pygame, sys, os.
 
-## Cara bermain :
+## Cara bermain 
 
-## UML Class Diagram :
+# Depedency
+
+```bash
+  Python v3.8.X
+  Pygames v2.5.2
+  math lib
+```
+
+
+## Installation
+
+Untuk Menjalankan kode program, install python ke dalam laptop atau computer. Setelah terinstall, buka terminal dan masukkan perintah di bawah ini
+### For Windows
+```bash
+  pip install pygame
+```
+### For Mac
+```bash
+  pip3 install pygame
+```
+
+### For Linux
+```bash
+  sudo apt-get install python3-pygame
+```
+
+ Jalankan file dengan initialize.py
+
+## UML Class Diagram 
 
 
 ## Contributors

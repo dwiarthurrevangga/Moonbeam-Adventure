@@ -14,7 +14,7 @@
 
 - [@Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)
 
-- [@Yesa Viola]()
+- [@Yesa Viola](https://github.com/yesa08)
 
 
 ## Cara bermain 

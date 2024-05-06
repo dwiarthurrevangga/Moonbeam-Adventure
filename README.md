@@ -2,19 +2,19 @@
 
 "Moonbeam Adventure" adalah game platformer yang menghadirkan petualangan seru dalam fantasi. Pemain akan  mengendalikan karakter utama yang dapat bergerak ke kiri, ke kanan, dan melompat di atas platform yang beragam, sambil menghindari rintangan seperti lubang, duri, jebakan, dan musuh yang bergerak. Dengan mengumpulkan hati yang terdapat di dalam item box, nyawa karakter akan bertambah. Pemain dapat mengalahkan musuh dengan melompat di atas mereka setelah mendapatkan power-up. Selain itu, pemain dapat mengumpulkan item seperti power-up yang memberikan kemampuan tambahan seperti berubah menjadi besar, membantu pemain menyelesaikan setiap level . 
 
-## Kelompok OkSobatKoding
+## Kelompok SoftMoon
 
-- [@Dwi Arthur Revangga](https://github.com/Arkyna)
+- [@Dwi Arthur Revangga](https://github.com/dwiarthurrevangga)
 
-- [@Alwi Arfan Solin](https://github.com/samanbrembo14)
+- [@Rayhan Fatih Gunawan](https://github.com/Mad-Moon39)
 
-- [@Eric Arwido Damanik](https://github.com/erc-a)
+- [@Andre Philip Tampubolon](https://github.com/Dreeept)
 
-- [@Lucas Hamonangan Simare-Mare](https://github.com/LucasHamonangan412)
+- [@Nydia Renli Sinaga](https://github.com/nydiarenli)
 
-- [@Dyo Dwi Carol](https://github.com/Dyocarol)
+- [@Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)
 
-- [@Afif Malik Azhar](https://github.com/AfifMalikAzhar)
+- [@Yesa Viola]()
 
 
 ## Cara bermain 

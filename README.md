@@ -18,8 +18,9 @@
 
 
 ## Cara bermain 
+player harus mencapai akhir level untuk menyelesaikan level melewati segala rintangan dan monster yang ada
 
-# Depedency
+## Depedency
 
 ```bash
   pygame

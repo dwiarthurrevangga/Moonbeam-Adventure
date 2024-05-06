@@ -18,7 +18,9 @@
 
 
 ## Cara bermain 
-player harus mencapai akhir dari suatu level untuk menyelesaikan level melewati segala rintangan dan monster yang ada
+-player harus mencapai akhir level untuk menyelesaikan level
+-player dapat digerakkan ke kanan dan ke kiri, dan melompat
+-player dapat mendapatkan powerup dari itembox untuk membantumelewati level
 
 ## Depedency
 

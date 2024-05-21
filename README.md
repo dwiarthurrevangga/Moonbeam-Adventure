@@ -1,6 +1,6 @@
 # Moonbeam-Adventure
 
-"Moonbeam Adventure" adalah game platformer yang menghadirkan petualangan seru dalam fantasi. Pemain akan  mengendalikan karakter utama yang dapat bergerak ke kiri, ke kanan, dan melompat di atas platform yang beragam, sambil menghindari rintangan seperti lubang, duri, jebakan, dan musuh yang bergerak. Dengan mengumpulkan hati yang terdapat di dalam item box, nyawa karakter akan bertambah. Pemain dapat mengalahkan musuh dengan melompat di atas mereka setelah mendapatkan power-up. Selain itu, pemain dapat mengumpulkan item seperti power-up yang memberikan kemampuan tambahan seperti berubah menjadi besar, membantu pemain menyelesaikan setiap level . 
+Moonbeam Adventure adalah permainan platformer seru di mana pemain mengendalikan karakter yang dapat bergerak maju, mundur, dan melompat untuk melewati berbagai rintangan dan mencapai bendera kemenangan di setiap level. Dalam setiap level, pemain akan menghadapi tantangan yang semakin menegangkan, termasuk musuh yang bergerak maju mundur dan dilengkapi dengan power-up shot yang menembak ke arah pemain. Selain itu, terdapat juga trap yang akan menambah tantangan kepada pemain dalam menyelesaikan game 
 
 ## Kelompok SoftMoon
 
@@ -20,7 +20,6 @@
 ## Cara bermain 
 -player harus mencapai akhir level untuk menyelesaikan level
 -player dapat digerakkan ke kanan dan ke kiri, dan melompat
--player dapat mendapatkan powerup dari itembox untuk membantumelewati level
 
 ## Depedency
 

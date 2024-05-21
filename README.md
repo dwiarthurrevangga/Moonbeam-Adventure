@@ -66,4 +66,4 @@ Untuk Menjalankan kode program, install python ke dalam laptop atau computer. Se
 | Yesa Viola | 120140133 | Programmer, Asset search |
 
 ## Reference
-
+https://youtu.be/2gABYM5M0ww?si=hAnMQ3hKHdFd5_Lm

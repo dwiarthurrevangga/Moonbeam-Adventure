@@ -2,10 +2,22 @@
 
 Moonbeam Adventure adalah permainan platformer seru di mana pemain mengendalikan karakter yang dapat bergerak maju, mundur, dash untuk mengalahkan musuh dan melompat untuk melewati berbagai rintangan dan mencapai kemenangan di setiap level. Dalam setiap level, pemain akan menghadapi tantangan yang semakin menegangkan, termasuk musuh yang bergerak maju mundur  yang menembak ke arah pemain. Selain itu, terdapat juga trap yang akan menambah tantangan kepada pemain dalam menyelesaikan game 
 
+## Anggota Kelompok
+
+
+
+| Nama |  NIM     | Kontribusi                | Github  |
+| :-------- | :------- | :------------------------- |-------------------------  |
+| Dwi Arthur Revangga | 122140144 | Project Leader, Programmer | [@Dwi Arthur Revangga](https://github.com/dwiarthurrevangga) |
+| Rayhan Fatih Gunawan | 122140134 | Programmer, Asset search  |  @Rayhan Fatih Gunawan](https://github.com/Mad-Moon39)  |
+| Andre Philip Tampubolon | 122140194 | Programmer, Asset search   |  [@Andre Philip Tampubolon](https://github.com/Dreeept)  |
+| Nydia Renli Sinaga | 122140007 | Programmer, Asset search |  [@Nydia Renli Sinaga](https://github.com/nydiarenli)  |
+| Elsa ELisa Yohana Sianturi | 122140135  | Programmer, Asset search |  @Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)  |
+| Yesa Viola | 120140133 | Programmer, Asset search |  [@Yesa Viola](https://github.com/yesa08)  |
+
 ## Kelompok SoftMoon
 
 - [@Dwi Arthur Revangga](https://github.com/dwiarthurrevangga)
-
 - [@Rayhan Fatih Gunawan](https://github.com/Mad-Moon39)
 
 - [@Andre Philip Tampubolon](https://github.com/Dreeept)
@@ -56,18 +68,7 @@ Untuk Menjalankan kode program, install python ke dalam laptop atau computer. Se
 ## UML Class Diagram 
 ![App Screenshot](./Aset/images/UML.jpg)
 
-## Contributors
 
-
-
-| Nama |  NIM     | Kontribusi                |
-| :-------- | :------- | :------------------------- |
-| Dwi Arthur Revangga | 122140144 | Project Leader, Programmer |
-| Rayhan Fatih Gunawan | 122140134 | Programmer, Asset search  |
-| Andre Philip Tampubolon | 122140194 | Programmer, Asset search   |
-| Nydia Renli Sinaga | 122140007 | Programmer, Asset search |
-| Elsa ELisa Yohana Sianturi | 122140135  | Programmer, Asset search |
-| Yesa Viola | 120140133 | Programmer, Asset search |
 
 ## Reference
 https://youtu.be/2gABYM5M0ww?si=hAnMQ3hKHdFd5_Lm

@@ -51,7 +51,7 @@ Untuk Menjalankan kode program, install python ke dalam laptop atau computer. Se
  kemudian jalankan file dengan initialize.py
 
 ## UML Class Diagram 
-![App Screenshot](./Aset/images/Screenshot%202024-05-06%20124253.png)
+![App Screenshot](./Aset/images/TubesPBO - UML Class Diagram.jpg)
 
 ## Contributors
 

@@ -18,9 +18,11 @@ Moonbeam Adventure adalah permainan platformer seru di mana pemain mengendalikan
 
 
 ## Cara bermain 
--player harus mencapai akhir level untuk menyelesaikan level
+-Player harus mencapai akhir level untuk menyelesaikan level
 
--player dapat digerakkan ke kanan dan ke kiri, dan melompat
+-Player dapat digerakkan ke kanan dan ke kiri, dan melompat
+
+-Player dapat melakukan dash untuk membunuh musuh
 
 ## Depedency
 

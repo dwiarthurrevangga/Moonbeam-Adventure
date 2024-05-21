@@ -1,6 +1,6 @@
 # Moonbeam-Adventure
 
-Moonbeam Adventure adalah permainan platformer seru di mana pemain mengendalikan karakter yang dapat bergerak maju, mundur, dash untuk mengalahkan musuh dan melompat untuk melewati berbagai rintangan dan mencapai kemenangan di setiap level. Dalam setiap level, pemain akan menghadapi tantangan yang semakin menegangkan, termasuk musuh yang bergerak maju mundur  yang menembak ke arah pemain. Selain itu, terdapat juga trap yang akan menambah tantangan kepada pemain dalam menyelesaikan game 
+Moonbeam Adventure adalah permainan platformer, di mana pemain mengendalikan karakter yang dapat bergerak maju, mundur, dash untuk mengalahkan musuh dan melompat untuk melewati berbagai rintangan dan mencapai kemenangan di setiap level. Dalam setiap level, pemain akan menghadapi tantangan yang semakin menegangkan, termasuk musuh yang bergerak maju mundur  yang menembak ke arah pemain. Selain itu, terdapat juga trap yang akan menambah tantangan kepada pemain dalam menyelesaikan game 
 
 ## Anggota Kelompok
 

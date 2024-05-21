@@ -67,3 +67,4 @@ Untuk Menjalankan kode program, install python ke dalam laptop atau computer. Se
 
 ## Reference
 https://youtu.be/2gABYM5M0ww?si=hAnMQ3hKHdFd5_Lm
+https://itch.io/game-assets/free/tag-16x16/tag-2d/tag-tileset

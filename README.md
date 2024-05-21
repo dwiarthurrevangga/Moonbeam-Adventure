@@ -13,14 +13,14 @@ Moonbeam Adventure adalah permainan platformer, di mana pemain mengendalikan kar
 | Andre Philip Tampubolon | 122140194 | Programmer, Asset search   |  [@Andre Philip Tampubolon](https://github.com/Dreeept)  |
 | Nydia Renli Sinaga | 122140007 | Programmer, Asset search |  [@Nydia Renli Sinaga](https://github.com/nydiarenli)  |
 | Elsa ELisa Yohana Sianturi | 122140135  | Programmer, Asset search |  [@Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)  |
-| Yesa Viola | 120140133 | Programmer, Asset search |  [@Yesa Viola](https://github.com/yesa08)  |
+| Yesa Viola | 122140133 | Programmer, Asset search |  [@Yesa Viola](https://github.com/yesa08)  |
 
 
 ## Cara bermain 
 
 -Player dapat digerakkan ke kanan dan ke kiri, dan melompat menggunakan arrow key pada keyboard
 
--untuk mengalahkan musuh, player dapat menekan tombol "x" untuk melakukan dash agar dapat mengeliminasi musuh
+-Untuk mengalahkan musuh, player dapat menekan tombol "x" untuk melakukan dash agar dapat mengeliminasi musuh
 
 -Player harus mengalahkan semua musuh untuk melanjutkan ke level berikutnya
 

@@ -9,24 +9,11 @@ Moonbeam Adventure adalah permainan platformer seru di mana pemain mengendalikan
 | Nama |  NIM     | Kontribusi                | Github  |
 | :-------- | :------- | :------------------------- |-------------------------  |
 | Dwi Arthur Revangga | 122140144 | Project Leader, Programmer | [@Dwi Arthur Revangga](https://github.com/dwiarthurrevangga) |
-| Rayhan Fatih Gunawan | 122140134 | Programmer, Asset search  |  @Rayhan Fatih Gunawan](https://github.com/Mad-Moon39)  |
+| Rayhan Fatih Gunawan | 122140134 | Programmer, Asset search  |  [@Rayhan Fatih Gunawan](https://github.com/Mad-Moon39)  |
 | Andre Philip Tampubolon | 122140194 | Programmer, Asset search   |  [@Andre Philip Tampubolon](https://github.com/Dreeept)  |
 | Nydia Renli Sinaga | 122140007 | Programmer, Asset search |  [@Nydia Renli Sinaga](https://github.com/nydiarenli)  |
-| Elsa ELisa Yohana Sianturi | 122140135  | Programmer, Asset search |  @Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)  |
+| Elsa ELisa Yohana Sianturi | 122140135  | Programmer, Asset search |  [@Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)  |
 | Yesa Viola | 120140133 | Programmer, Asset search |  [@Yesa Viola](https://github.com/yesa08)  |
-
-## Kelompok SoftMoon
-
-- [@Dwi Arthur Revangga](https://github.com/dwiarthurrevangga)
-- [@Rayhan Fatih Gunawan](https://github.com/Mad-Moon39)
-
-- [@Andre Philip Tampubolon](https://github.com/Dreeept)
-
-- [@Nydia Renli Sinaga](https://github.com/nydiarenli)
-
-- [@Elsa ELisa Yohana Sianturi](https://github.com/elsaelisayohanasianturi09)
-
-- [@Yesa Viola](https://github.com/yesa08)
 
 
 ## Cara bermain 
